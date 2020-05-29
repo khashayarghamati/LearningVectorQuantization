@@ -1,6 +1,6 @@
 # Learning Vector Quantization algorithm
 
-## this is a sample of LVG algorithm
+## this is a sample of LVQ algorithm
 
 
 ## Usage:
